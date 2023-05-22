@@ -1,0 +1,39 @@
+body{
+    font-family: 'Inter', sans-serif;
+}
+
+.login-area{
+    width: 100vw;
+    height: 100vh;
+    background-color: #e6e6e6;
+}
+
+.login-conteudo{
+    width: 345px;
+    background-color: white;
+    border-radius: 15px;
+}
+
+.img{
+    background-image: url(predios.jpg);
+    height: 200px;
+    background-size: cover;
+    background-position: center;
+    border-top-left-radius: 15px;
+    border-top-right-radius: 15px;
+}
+
+.btn{
+    background-color: #4877f8;
+    color: white;
+    font-weight: 500;
+    transition: all .5s;
+}
+
+.btn:hover{
+    letter-spacing: 2px;
+    background-color: #0c4af5;
+    color: white;
+}
+
+
