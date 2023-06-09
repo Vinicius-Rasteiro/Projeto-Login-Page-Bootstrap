@@ -15,7 +15,7 @@ body{
 }
 
 .img{
-    background-image: url(predios.jpg);
+    background-image: url(../img/predios.jpg);
     height: 200px;
     background-size: cover;
     background-position: center;
